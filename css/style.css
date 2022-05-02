@@ -213,7 +213,11 @@ a:focus {
     color: #ffffff;
 }
 
-.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:hover {
+    background: #b2b3b2;
+}
+
+
 .navbar-dark .navbar-nav .nav-link.active {
     background: #AE84A0;
     transition: none;
